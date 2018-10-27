@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">SongList</string>
+    <string name="title">Title</string>
+    <string name="band">Band</string>
+    <string name="year">Year</string>
+    <string name="save">Save</string>
 </resources>
