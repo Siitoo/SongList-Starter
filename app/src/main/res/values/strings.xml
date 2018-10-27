@@ -4,4 +4,5 @@
     <string name="band">Band</string>
     <string name="year">Year</string>
     <string name="save">Save</string>
+    <string name="NewSong">New Song</string>
 </resources>
